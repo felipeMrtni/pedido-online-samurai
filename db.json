@@ -1,0 +1,93 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "snack": "burger",
+      "name": "Mega",
+      "description": "burger artesanal mega grande",
+      "price": 25.5,
+      "image": "https://i.imgur.com/upjIUnG.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "burger",
+      "name": "X-bacon",
+      "description": "burger de x com bacon",
+      "price": 23.5,
+      "image": "https://i.imgur.com/B4J04AJ.jpg"
+    }
+  ],
+
+  "pizzas": [
+    {
+      "id": 1,
+      "snack": "pizzas",
+      "name": "Calabresa",
+      "description": "gordurosa",
+      "price": 35.5,
+      "image": "https://i.imgur.com/5rjJGkV.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "pizzas",
+      "name": "Portuguesa",
+      "description": "ora poix",
+      "price": 33.5,
+      "image": "https://i.imgur.com/WCoyGoI.png"
+    }
+  ],
+
+  "bebidas": [
+    {
+      "id": 1,
+      "snack": "bebida",
+      "name": "Coca",
+      "description": "bleh",
+      "price": 5.5,
+      "image": "https://i.imgur.com/Lg3aKhf.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "bebida",
+      "name": "Guaraná",
+      "description": "gelaaaaada",
+      "price": 3.5,
+      "image": "https://i.imgur.com/hOBrOIm.jpg"
+    },
+    {
+      "id": 3,
+      "snack": "bebida",
+      "name": "Suco de Abacaxi",
+      "description": "refrescante",
+      "price": 3.5,
+      "image": "https://i.imgur.com/VV9qTMh.jpg"
+    }
+  ],
+
+  "sobremesas": [
+    {
+      "id": 1,
+      "snack": "sobremesas",
+      "name": "Casquinha",
+      "description": "refrescante",
+      "price": 4.5,
+      "image": "https://i.imgur.com/YGmeoCm.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "sobremesas",
+      "name": "Chocolate com granulado",
+      "description": "derrete",
+      "price": 6.5,
+      "image": "https://i.imgur.com/osAHOLe.jpg"
+    },
+    {
+      "id": 3,
+      "snack": "sobremesas",
+      "name": "Flocos",
+      "description": "bom",
+      "price": 6.5,
+      "image": "https://i.imgur.com/qgnFLiy.jpg"
+    }
+  ]
+}
